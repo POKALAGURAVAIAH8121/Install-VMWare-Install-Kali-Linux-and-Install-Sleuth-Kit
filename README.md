@@ -69,7 +69,7 @@ To install VirtualBox and set up a virtual machine(Kali Linux), install Autopsy 
 ### **Virtual Machine (Kali Linux)**
 
 
-<img width="958" alt="image" src="https://github.com/user-attachments/assets/73f13d8d-a70f-4f24-bdae-a5e850f9e15b" />
+<img width="405" alt="image" src="https://github.com/user-attachments/assets/73f13d8d-a70f-4f24-bdae-a5e850f9e15b" />
 
 
 
@@ -77,14 +77,14 @@ To install VirtualBox and set up a virtual machine(Kali Linux), install Autopsy 
 
 ### **Autopsy**
 
-<img width="757" alt="image" src="https://github.com/user-attachments/assets/6550fa3e-05fb-41e1-96bb-4f099f0384ba" />
+<img width="405" alt="image" src="https://github.com/user-attachments/assets/6550fa3e-05fb-41e1-96bb-4f099f0384ba" />
 
 
 
 
 ### **Sleuth Kit**
 
-<img width="667" alt="image" src="https://github.com/user-attachments/assets/f3206b91-0ab9-4968-bc5f-35efecb57283" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/f3206b91-0ab9-4968-bc5f-35efecb57283" />
 
 <img width="473" alt="image" src="https://github.com/user-attachments/assets/e748a5aa-1041-477a-bd8b-bb91e9f21610" />
 
